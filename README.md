@@ -4,6 +4,7 @@ Exemplos de jogos desenvolvidos no IFRN usando a biblioteca [Jerimum](https://po
 
 ## 2016.2
 
+![Imagem](https://t.co/h6shCwqqdD)
 
 ### Como contribuir?
 
