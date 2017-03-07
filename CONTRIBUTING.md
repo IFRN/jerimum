@@ -6,7 +6,7 @@ Para adicionar um novo projeto, siga as seguintes instruções:
 - _Clone_ seu repositório na sua máquina
 
   ```sh
-  git clone https://github.com/{{seu usuário}}/gosu-exemplos.git
+  git clone https://github.com/{{seu usuário}}/jerimum.git
   ```
   
 - Navegue até o período em que seu projeto foi desenvolvido
