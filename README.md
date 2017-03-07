@@ -4,7 +4,10 @@ Exemplos de jogos desenvolvidos no IFRN usando a biblioteca [Jerimum](https://po
 
 ## 2016.2
 
-![Imagem](Potigol099.png)
+  - [Nest2](https://github.com/henriqueap/Nest2)
+  - [Naruto vs Sasuke](https://github.com/maykonkira/Game_Naruto_vs_Sasuke)
+  - [Oceania](https://github.com/jonhalex/jogo-oceania)
+  - [Potter vs Vader](https://github.com/fscaldas/potigame)
 
 ### Como contribuir?
 
