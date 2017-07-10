@@ -2,6 +2,8 @@
 
 Exemplos de jogos desenvolvidos no IFRN usando a biblioteca [Jerimum](https://potigol.github.io/Jerimum).
 
+## 2017.1
+
 ## 2016.2
 
   - [Nest2](https://github.com/henriqueap/Nest2)
