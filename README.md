@@ -4,6 +4,9 @@ Exemplos de jogos desenvolvidos no IFRN usando a biblioteca [Jerimum](https://po
 
 ## 2017.1
 
+  - [Ice Cave](https://joaofilipenasc.github.io/Ice-Cave)
+  - [PotiGame](https://TiagoLisboa.github.io/PotiGame)
+
 ## 2016.2
 
   - [Nest2](https://github.com/henriqueap/Nest2)
