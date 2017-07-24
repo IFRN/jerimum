@@ -5,7 +5,9 @@ Exemplos de jogos desenvolvidos no IFRN usando a biblioteca [Jerimum](https://po
 ## 2017.1
 
   - [Ice Cave](https://joaofilipenasc.github.io/Ice-Cave) - [Código fonte](https://github.com/joaofilipenasc/Ice-Cave)
+  - [Jerimum Rouge](https://saulodfp.github.io/jerimum-rogue) - [Código fonte](https://github.com/saulodfp/jerimum-rogue) 
   - [PotiGame](https://TiagoLisboa.github.io/PotiGame) - [Código fonte](https://github.com/TiagoLisboa/PotiGame)
+  - [Robot vs Zombies](https://Pjeferson.github.com/RobotVsZombies) - [Código fonte](https://github.com/Pjeferson/RobotVsZombies)
 
 ## 2016.2
 
