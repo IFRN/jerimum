@@ -4,7 +4,7 @@ Exemplos de jogos desenvolvidos no IFRN usando a biblioteca [Jerimum](https://po
 
 ## 2017.2
 
-  - [101](https://github.com/israelphilipe/jogo)
+  - [1 on 1](https://github.com/israelphilipe/jogo)
   - [Dino Run](https://github.com/AndreOSf/Dino_RUN)
 
 ## 2017.1
