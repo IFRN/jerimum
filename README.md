@@ -2,6 +2,11 @@
 
 Exemplos de jogos desenvolvidos no IFRN usando a biblioteca [Jerimum](https://potigol.github.io/Jerimum).
 
+## 2017.2
+
+  - [101](https://github.com/israelphilipe/jogo)
+  - [Dino Run](https://github.com/AndreOSf/Dino_RUN)
+
 ## 2017.1
 
   - [Deadly Beach](https://lilores.github.io/Deadly-Beach) - [Código fonte](https://github.com/lilores/Deadly-Beach)
